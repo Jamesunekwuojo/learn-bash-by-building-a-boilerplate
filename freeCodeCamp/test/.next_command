@@ -174,3 +174,7 @@ cd client
 mkdir assets
 cd assets
 mkdir images client/assets
+mkdir images
+pwd
+cd client
+cd images
