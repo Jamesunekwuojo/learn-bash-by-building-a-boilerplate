@@ -179,3 +179,7 @@ pwd
 cd client
 cd images
 touch background.jpg
+cd ../..
+cd assets
+cd images
+cd ../../..
