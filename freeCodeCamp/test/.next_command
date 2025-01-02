@@ -178,3 +178,4 @@ mkdir images
 pwd
 cd client
 cd images
+touch background.jpg
