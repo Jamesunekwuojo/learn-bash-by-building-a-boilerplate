@@ -208,3 +208,4 @@ rmdir images
 rmdir background.jpg /images
 rm background.jpg website/images
 rm images/background.jpg
+rmdir images
