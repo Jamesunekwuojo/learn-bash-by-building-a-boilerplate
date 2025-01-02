@@ -197,3 +197,5 @@ find -name header.png
 find -name client/assets/images
 find -name src
 find -name images
+mv header.png clients/assets/images
+mv header.png ./client/assets/images
