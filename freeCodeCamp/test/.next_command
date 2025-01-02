@@ -209,3 +209,4 @@ rmdir background.jpg /images
 rm background.jpg website/images
 rm images/background.jpg
 rmdir images
+ls --color=auto
