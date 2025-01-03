@@ -275,3 +275,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd website
 more README.md
 echo from the command line >> README.md
+more README.md
